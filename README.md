@@ -1,6 +1,4 @@
-Certainly! Here's a revised version of your README.md with a more concise, professional, and structured tone—great for showcasing your **Data Warehouse and Analytics Project** on GitHub:
 
----
 
 # 📊 Data Warehouse & Analytics Project
 
@@ -33,7 +31,7 @@ Data cleaning, deduplication, and standardization for analysis-readiness.
 📊 **Gold Layer**
 Business-friendly, analytical star schema optimized for BI and reporting.
 
-![Architecture](docs/data_architecture.png)
+
 
 ---
 
@@ -70,9 +68,7 @@ data-warehouse-project/
 │   └── gold/
 ├── tests/                # Data quality and validation checks
 ├── README.md             # Project overview
-├── LICENSE               # Project license
 ├── .gitignore
-└── requirements.txt      # List of tools and dependencies
 ```
 
 ---
