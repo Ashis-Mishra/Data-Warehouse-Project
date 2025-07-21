@@ -30,7 +30,25 @@ Data cleaning, deduplication, and standardization for analysis-readiness.
 
 📊 **Gold Layer**
 Business-friendly, analytical star schema optimized for BI and reporting.
+<img width="800" height="700" alt="ChatGPT Image Jul 21, 2025, 08_53_52 PM" src="https://github.com/user-attachments/assets/d8f30555-6a2b-4fd5-9e47-3585cb080657" />
 
+
+
+
+---
+
+## 🔁 ETL Layer Mapping
+
+The pipeline processes raw data from ERP & CRM systems across the Bronze, Silver, and Gold layers.
+
+<img width="800" height="700" alt="Screenshot 2025-07-21 205448" src="https://github.com/user-attachments/assets/1efa6e4f-934d-41f1-9f6a-e669f6c0101e" />
+
+
+---
+## ⭐ Gold Layer: Star Schema
+
+The Gold layer is modeled using a **Sales Data Mart** in **Star Schema**, designed for fast analytics and BI reporting.
+<img width="800" height="700" alt="Screenshot 2025-07-21 205958" src="https://github.com/user-attachments/assets/c7c0d993-514d-4459-a1bb-ce29e10fb95d" />
 
 
 ---
