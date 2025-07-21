@@ -99,14 +99,6 @@ data-warehouse-project/
 
 ---
 
-## 📄 Documentation
-
-* [Data Catalog](docs/data_catalog.md)
-* [Data Architecture & Flow Diagrams](docs/)
-* [Naming Conventions](docs/naming-conventions.md)
-* [Project Tasks & Phases (Notion)](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4)
-
----
 
 ## 🤝 Acknowledgements
 
